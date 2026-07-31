@@ -1,0 +1,23 @@
+# Large model files
+models/transformers/
+models/hub/
+models/xet/
+*.safetensors
+*.bin
+
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+*.log
